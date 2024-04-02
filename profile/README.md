@@ -1,12 +1,11 @@
-# Ortelo
+# Gamu
 
 This is a multiplayer gaming platform, allowing people to play together
 
 ## Avaliables games
-- Othello
-- Tic Tac Toe
+Nothing for now
 
 ## Where to play ?
-the platform can be found at [https://lila.vps.boxtoplay.com/](Ortelo).
+The platform is not currently deployed
 
 Have fun !
